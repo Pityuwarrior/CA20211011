@@ -10,6 +10,9 @@ namespace CA20211011
     {
         static void Main(string[] args)
         {
+            gdfgdfg
+
+
         }
     }
 }
